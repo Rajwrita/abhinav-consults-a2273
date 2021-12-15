@@ -125,7 +125,7 @@ sections:
         altText: Xbox
         caption: Xbox
       - type: ImageBlock
-        url: /images/skype.svg
+        url: /images/ism-logo-removebg-preview.png
         altText: Skype
         caption: Skype
       - type: ImageBlock
