@@ -47,7 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: Hello!
+    title: Hello! I am Abhinav Goyal
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
