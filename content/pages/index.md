@@ -121,7 +121,7 @@ sections:
         altText: Gatsby
         caption: Gatsby
       - type: ImageBlock
-        url: /images/xbox.svg
+        url: /images/gs-logo__1_-removebg-preview.png
         altText: Xbox
         caption: Xbox
       - type: ImageBlock
