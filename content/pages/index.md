@@ -125,7 +125,7 @@ sections:
         caption: Indian School of Business
       - type: ImageBlock
         url: /images/ism-logo-removebg-preview.png
-        altText: Skype
+        altText: ISM
         caption: Skype
       - type: ImageBlock
         altText: ZCOOL
