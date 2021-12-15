@@ -100,7 +100,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - colors: colors-d
+  - colors: colors-b
     subtitle: Experiences
     elementId: ''
     images:
