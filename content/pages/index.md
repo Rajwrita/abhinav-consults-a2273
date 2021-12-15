@@ -170,7 +170,7 @@ sections:
       problem-solving.
     items:
       - type: FeaturedItem
-        title: Faster
+        title: Resume review
         text: >
           Learn how top tech companies have learned working remote using our
           product.
