@@ -106,7 +106,7 @@ sections:
       - type: ImageBlock
         url: /images/zeta-logo-removebg-preview.png
         altText: Zeta Suite
-        caption: Zeta
+        caption: Zeta Suite
       - type: ImageBlock
         url: /images/wk-logo-removebg-preview.png
         altText: Google Play
