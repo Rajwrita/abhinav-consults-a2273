@@ -104,7 +104,7 @@ sections:
           opacity: 100
       type: ImageBlock
   - colors: colors-h
-    subtitle: Trusted by
+    subtitle: Experiences
     elementId: ''
     images:
       - type: ImageBlock
