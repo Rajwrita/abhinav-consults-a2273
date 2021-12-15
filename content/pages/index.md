@@ -220,7 +220,7 @@ sections:
               - pb-6
               - pr-4
       - type: FeaturedItem
-        title: Focused
+        title: '1:1 Mentorship'
         text: >
           Learn how top tech companies have learned working remote using our
           product.
