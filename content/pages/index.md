@@ -58,12 +58,6 @@ sections:
       E-Commerce and Banking (Trading) domains. Worked on building highly
       scalable and resilient systems.
 
-    badge:
-      type: Badge
-      label: Case stdy
-      styles:
-        self:
-          textAlign: left
     actions:
       - type: Button
         label: Get Started
