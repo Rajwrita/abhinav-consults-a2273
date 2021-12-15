@@ -109,7 +109,7 @@ sections:
         caption: Zeta Suite
       - type: ImageBlock
         url: /images/wk-logo-removebg-preview.png
-        altText: Google Play
+        altText: Wolters Kluwer
         caption: Google Play
       - type: ImageBlock
         url: /images/flipkart-logo-removebg-preview.png
