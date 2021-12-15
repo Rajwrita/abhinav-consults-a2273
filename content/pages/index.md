@@ -46,9 +46,18 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: A little about me
-    text: >
-      Learn how top tech companies have learned working remote using our
-      product.
+    text: >+
+      Building products for a seamless and delightful customer experience.
+
+
+      Completed my MBA from ISB with a specialization in Marketing and Internet
+      Technology management.
+
+
+      Seasoned software development professional with experience working in
+      E-Commerce and Banking (Trading) domains. Worked on building highly
+      scalable and resilient systems.
+
     badge:
       type: Badge
       label: Case study
