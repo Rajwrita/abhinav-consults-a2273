@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    subtitle: 'One platform, one community.'
+    subtitle: I am Abhinav Goyal.
     actions:
       - type: Button
         label: Get Started
