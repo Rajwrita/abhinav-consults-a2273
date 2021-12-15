@@ -105,7 +105,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/zeta-logo-removebg-preview.png
-        altText: Zeta
+        altText: Zeta Suite
         caption: Zeta
       - type: ImageBlock
         url: /images/wk-logo-removebg-preview.png
