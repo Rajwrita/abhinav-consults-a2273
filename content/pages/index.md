@@ -511,9 +511,6 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: Subscribe to my newsletter
-    text: >
-      Sign up your team today to be the first to try out our new product to
-      increase your team’s productivity
     form:
       type: FormBlock
       elementId: sign-up-form
