@@ -73,7 +73,6 @@
         },
         "title": "Starter",
         "contacts": {
-            "phoneAltText": "Our phone",
             "email": "info@lorem.mail",
             "emailAltText": "Our email",
             "address": "312 Lovely Street, NY",
