@@ -61,7 +61,7 @@ sections:
     actions:
       - type: Button
         label: Know more
-        url: /
+        url: '/https://www.linkedin.com/in/bhnvgoyal/'
         style: primary
     styles:
       self:
