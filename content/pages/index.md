@@ -126,7 +126,7 @@ sections:
       - type: ImageBlock
         url: /images/ism-logo-removebg-preview.png
         altText: ISM
-        caption: Skype
+        caption: Indian School of Mines Dhanbad
       - type: ImageBlock
         altText: ZCOOL
         caption: ZCOOL
