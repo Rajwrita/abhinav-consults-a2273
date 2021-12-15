@@ -110,7 +110,7 @@ sections:
       - type: ImageBlock
         url: /images/wk-logo-removebg-preview.png
         altText: Wolters Kluwer
-        caption: Google Play
+        caption: Wolters Kluwer
       - type: ImageBlock
         url: /images/flipkart-logo-removebg-preview.png
         altText: PlayStation
