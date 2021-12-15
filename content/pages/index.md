@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    subtitle: 'Product @ Zeta,'
+    subtitle: 'Product at Zeta Suite,'
     actions:
       - type: Button
         label: Get Started
