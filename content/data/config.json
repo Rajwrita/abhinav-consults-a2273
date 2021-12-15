@@ -15,14 +15,14 @@
             },
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
+                "label": "Resume Review",
+                "url": "/faq",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Resume Review",
-                "url": "/faq",
+                "label": "Home",
+                "url": "/",
                 "altText": ""
             },
             {
