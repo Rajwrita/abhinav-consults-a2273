@@ -165,8 +165,9 @@ sections:
     subtitle: >-
       I have helped aspiring Product Managers convert interviews at their dream
       firms.With vast experience, I understand the common mistakes candidates
-      make and the best strategies to overcome them.My expertise lies in helping
-      candidates develop a strong foundation for approaching problem-solving.
+      make and the best strategies to overcome them. My expertise lies in
+      helping candidates develop a strong foundation for approaching
+      problem-solving.
     items:
       - type: FeaturedItem
         title: Faster
