@@ -105,7 +105,7 @@ sections:
     elementId: ''
     images:
       - type: ImageBlock
-        url: /images/apple.svg
+        url: /images/zeta-logo.png
         altText: Apple
         caption: Apple
       - type: ImageBlock
