@@ -44,7 +44,7 @@ sections:
     title: Hello! I am Abhinav Goyal
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: A little about me
     text: >+
       Building products for a seamless and delightful customer experience.
