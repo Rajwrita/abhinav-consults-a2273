@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    subtitle: "Product at Zeta Suite |\_ISB'20 |ISM'16"
+    subtitle: "Product Mentor |\_ISB | IIT"
     actions:
       - type: Button
         label: Get Started
