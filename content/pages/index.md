@@ -122,7 +122,7 @@ sections:
       - type: ImageBlock
         url: /images/gs-logo__1_-removebg-preview.png
         altText: ISB
-        caption: ISB
+        caption: Indian School of Business
       - type: ImageBlock
         url: /images/ism-logo-removebg-preview.png
         altText: Skype
