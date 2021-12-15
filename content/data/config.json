@@ -9,14 +9,14 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
+                "label": "Interview Prep",
+                "url": "/careers",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Interview Prep",
-                "url": "/careers",
+                "label": "Home",
+                "url": "/",
                 "altText": ""
             },
             {
