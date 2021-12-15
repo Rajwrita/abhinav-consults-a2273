@@ -114,7 +114,7 @@ sections:
       - type: ImageBlock
         url: /images/flipkart-logo-removebg-preview.png
         altText: Flipkart
-        caption: PlayStation
+        caption: Flipkart
       - type: ImageBlock
         url: /images/gs-logo-removebg-preview.png
         altText: Gatsby
