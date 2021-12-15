@@ -5,12 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    subtitle: >-
-      Building products for a seamless and delightful customer
-      experience.Completed my MBA from ISB with a specialization in Marketing
-      and Internet Technology management.Seasoned software development
-      professional with experience working in E-Commerce and Banking (Trading)
-      domains. Worked on building highly scalable and resilient systems.
+    subtitle: 'Product @ Zeta,'
     actions:
       - type: Button
         label: Get Started
