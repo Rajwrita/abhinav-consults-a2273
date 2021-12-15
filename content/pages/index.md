@@ -47,6 +47,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    title: Abhinav Goyal
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
