@@ -322,7 +322,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-a
-    title: And a strong value proposition
+    title: Interview Preparation
     text: >
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
