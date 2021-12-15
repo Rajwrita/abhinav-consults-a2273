@@ -113,7 +113,7 @@ sections:
         caption: Wolters Kluwer
       - type: ImageBlock
         url: /images/flipkart-logo-removebg-preview.png
-        altText: PlayStation
+        altText: Flipkart
         caption: PlayStation
       - type: ImageBlock
         url: /images/gs-logo-removebg-preview.png
