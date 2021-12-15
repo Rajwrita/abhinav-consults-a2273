@@ -125,12 +125,12 @@ sections:
         altText: Xbox
         caption: Xbox
       - type: ImageBlock
+        altText: ZCOOL
+        caption: ZCOOL
+      - type: ImageBlock
         url: /images/ism-logo-removebg-preview.png
         altText: Skype
         caption: Skype
-      - type: ImageBlock
-        altText: ZCOOL
-        caption: ZCOOL
     spacing: 3
     columns: 7
     aspectRatio: auto
