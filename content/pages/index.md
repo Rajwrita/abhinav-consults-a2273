@@ -60,7 +60,7 @@ sections:
 
     badge:
       type: Badge
-      label: Case study
+      label: Case stdy
       styles:
         self:
           textAlign: left
