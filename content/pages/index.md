@@ -109,7 +109,7 @@ sections:
         altText: Apple
         caption: Apple
       - type: ImageBlock
-        url: /images/google-play.svg
+        url: /images/wk-logo-removebg-preview.png
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
