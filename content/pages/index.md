@@ -122,7 +122,7 @@ sections:
       - type: ImageBlock
         url: /images/gs-logo__1_-removebg-preview.png
         altText: ISB
-        caption: Xbox
+        caption: ISB
       - type: ImageBlock
         url: /images/ism-logo-removebg-preview.png
         altText: Skype
