@@ -129,7 +129,6 @@ sections:
         altText: Skype
         caption: Skype
       - type: ImageBlock
-        url: /images/zcool.svg
         altText: ZCOOL
         caption: ZCOOL
     spacing: 3
