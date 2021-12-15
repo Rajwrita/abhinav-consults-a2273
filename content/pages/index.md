@@ -161,7 +161,7 @@ sections:
     title: Experiences
   - colors: colors-a
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
+    title: Reach out to me for
     subtitle: >-
       I have helped aspiring Product Managers convert interviews at their dream
       firms.With vast experience, I understand the common mistakes candidates
