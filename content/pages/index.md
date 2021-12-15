@@ -113,7 +113,7 @@ sections:
         altText: Google Play
         caption: Google Play
       - type: ImageBlock
-        url: /images/playstation.svg
+        url: /images/flipkart-logo-removebg-preview.png
         altText: PlayStation
         caption: PlayStation
       - type: ImageBlock
