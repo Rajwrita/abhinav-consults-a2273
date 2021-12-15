@@ -60,7 +60,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get Started
+        label: Know more
         url: /
         style: primary
     styles:
