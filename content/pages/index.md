@@ -118,7 +118,7 @@ sections:
       - type: ImageBlock
         url: /images/gs-logo-removebg-preview.png
         altText: Goldman Sachs
-        caption: Gatsby
+        caption: Goldman Sachs
       - type: ImageBlock
         url: /images/gs-logo__1_-removebg-preview.png
         altText: Xbox
