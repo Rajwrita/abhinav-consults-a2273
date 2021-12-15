@@ -117,7 +117,7 @@ sections:
         caption: Flipkart
       - type: ImageBlock
         url: /images/gs-logo-removebg-preview.png
-        altText: Gatsby
+        altText: Goldman Sachs
         caption: Gatsby
       - type: ImageBlock
         url: /images/gs-logo__1_-removebg-preview.png
