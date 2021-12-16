@@ -92,18 +92,18 @@
                 "icon": "twitter"
             },
             {
-                "label": "Facebook",
-                "altText": "",
-                "url": "/https://www.facebook.com/bhnvgoyal",
-                "icon": "facebook",
-                "style": "link",
-                "elementId": ""
-            },
-            {
                 "label": "LinkedIn",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/bhnvgoyal/",
                 "icon": "linkedin",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.facebook.com/bhnvgoyal",
+                "icon": "facebook",
                 "style": "link",
                 "elementId": ""
             },
