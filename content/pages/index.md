@@ -279,11 +279,6 @@ sections:
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
     actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
       - type: Link
         label: Learn More
         url: /
