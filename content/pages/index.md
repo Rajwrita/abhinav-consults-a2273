@@ -371,9 +371,7 @@ sections:
   - elementId: ''
     colors: colors-a
     variant: variant-b
-    title: >-
-      We sometimes write things. You should read it, it might shed some light on
-      why we’re doing what we’re doing
+    title: Here are some of my thoughts penned down
     actions:
       - type: Link
         label: See all posts
