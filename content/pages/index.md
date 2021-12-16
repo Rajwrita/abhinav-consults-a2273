@@ -130,7 +130,7 @@ sections:
       - type: ImageBlock
         altText: ZCOOL
         caption: ZCOOL
-    spacing: 3
+    spacing: 28
     columns: 6
     aspectRatio: auto
     showCaption: false
