@@ -34,7 +34,6 @@ sections:
         justifyContent: flex-start
   - type: JobsSection
     colors: colors-a
-    title: Open roles
     subtitle: ''
     jobLists:
       - type: JobList
