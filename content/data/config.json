@@ -28,7 +28,7 @@
             {
                 "label": "Need Answers?",
                 "altText": "",
-                "url": "/",
+                "url": "/faq",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
