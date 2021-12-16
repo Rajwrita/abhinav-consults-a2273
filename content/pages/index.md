@@ -286,7 +286,7 @@ sections:
     actions:
       - type: Link
         label: Learn More
-        url: /
+        url: /resume
         showIcon: true
         icon: arrowRight
         iconPosition: right
