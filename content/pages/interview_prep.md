@@ -186,8 +186,8 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: inset
-    text: >-
-      We might have more roles soon, and we’ll contact you if we think there
+    text: >
+      ## We might have more roles soon, and we’ll contact you if we think there
       might be a good match
     form:
       type: FormBlock
