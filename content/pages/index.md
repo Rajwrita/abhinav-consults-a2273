@@ -263,6 +263,15 @@ sections:
               - pl-4
               - pb-6
               - pr-4
+        actions:
+          - label: Learn more
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+            type: Link
     columns: 3
     enableHover: false
     styles:
