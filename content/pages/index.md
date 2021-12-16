@@ -101,7 +101,6 @@ sections:
           opacity: 100
       type: ImageBlock
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
