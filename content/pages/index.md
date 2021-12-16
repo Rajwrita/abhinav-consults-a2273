@@ -89,7 +89,7 @@ sections:
     type: FeatureHighlightSection
     media:
       url: /images/profileblock.png
-      altText: Where did everyone go?
+      altText: Profile
       caption: Team meeting
       elementId: ''
       styles:
