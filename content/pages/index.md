@@ -266,7 +266,7 @@ sections:
         actions:
           - label: Learn more
             altText: ''
-            url: /
+            url: 'https://www.linkedin.com/services/page/941755312426672414/'
             showIcon: false
             icon: arrowRight
             iconPosition: right
