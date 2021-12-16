@@ -5,11 +5,6 @@ sections:
     colors: colors-h
     title: Interview Prep
     text: You should join us.
-    media:
-      type: ImageBlock
-      url: /images/hero-4.jpg
-      caption: Team meeting
-      altText: Hero section image
     styles:
       self:
         height: auto
