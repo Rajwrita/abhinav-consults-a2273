@@ -485,6 +485,13 @@ sections:
       destination: ''
       action: /.netlify/functions/submission_created
       fields:
+        - name: home-address
+          label: Home address
+          hideLabel: false
+          placeholder: Your home address
+          isRequired: false
+          width: full
+          type: TextFormControl
         - name: email
           label: Email
           hideLabel: true
