@@ -329,7 +329,7 @@ sections:
     actions:
       - type: Link
         label: Learn More
-        url: /
+        url: /interview_prep
         showIcon: true
         icon: arrowRight
         iconPosition: right
