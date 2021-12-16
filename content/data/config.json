@@ -34,12 +34,6 @@
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/blog"
             }
         ],
         "secondaryLinks": [],
