@@ -6,11 +6,7 @@ sections:
     elementId: homepage-hero-1
     colors: colors-a
     subtitle: "Product Mentor |\_ISB | IIT"
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero.png
