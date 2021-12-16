@@ -88,7 +88,7 @@ sections:
         justifyContent: flex-start
     type: FeatureHighlightSection
     media:
-      url: /images/profileblock.png
+      url: /images/profileblock (1).png
       altText: Profile
       caption: Team meeting
       elementId: ''
