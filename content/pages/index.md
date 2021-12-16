@@ -160,7 +160,6 @@ sections:
     imageSizePx: 240
     type: MediaGallerySection
     title: Experiences
-    subtitle: Experiences
   - colors: colors-a
     elementId: ''
     title: Reach out to me for
