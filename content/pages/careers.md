@@ -6,10 +6,6 @@ sections:
     colors: colors-h
     title: Interview Preparation
     subtitle: You should join us.
-    media:
-      type: ImageBlock
-      url: /images/hero-4.jpg
-      altText: Hero section image
     styles:
       self:
         height: auto
