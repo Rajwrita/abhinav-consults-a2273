@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-h
-    title: We’re growing fast
+    title: Interview Preparation
     subtitle: You should join us.
     media:
       type: ImageBlock
