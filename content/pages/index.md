@@ -232,7 +232,7 @@ sections:
         actions:
           - label: Learn more
             altText: ''
-            url: /
+            url: /interview_prep
             showIcon: false
             icon: arrowRight
             iconPosition: right
