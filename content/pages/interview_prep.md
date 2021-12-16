@@ -3,7 +3,7 @@ title: InterviewPrep
 sections:
   - type: HeroSection
     colors: colors-h
-    title: We’re growing fast
+    title: Interview Prep
     text: You should join us.
     media:
       type: ImageBlock
