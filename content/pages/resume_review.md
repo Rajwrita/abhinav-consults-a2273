@@ -50,7 +50,7 @@ sections:
             actions:
               - type: Link
                 label: Apply
-                url: /
+                url: '/https://www.linkedin.com/services/page/941755312426672414/'
                 showIcon: true
                 icon: arrowRight
                 iconPosition: right
