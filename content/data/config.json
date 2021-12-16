@@ -85,19 +85,19 @@
         "primaryLinks": [],
         "socialLinks": [
             {
-                "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "/https://twitter.com/bhnvgoyal",
-                "icon": "twitter"
-            },
-            {
                 "label": "LinkedIn",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/bhnvgoyal/",
                 "icon": "linkedin",
                 "style": "link",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "/https://twitter.com/bhnvgoyal",
+                "icon": "twitter"
             },
             {
                 "label": "Facebook",
