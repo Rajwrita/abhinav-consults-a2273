@@ -100,19 +100,19 @@
                 "elementId": ""
             },
             {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "/https://www.instagram.com/bhnvgoyal/",
-                "icon": "instagram"
-            },
-            {
                 "label": "LinkedIn",
                 "altText": "",
                 "url": "https://www.linkedin.com/in/bhnvgoyal/",
                 "icon": "linkedin",
                 "style": "link",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "/https://www.instagram.com/bhnvgoyal/",
+                "icon": "instagram"
             }
         ],
         "legalLinks": [],
