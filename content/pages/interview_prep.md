@@ -128,7 +128,6 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: inset
-    title: Not seeing the right role? Contact us
     text: >-
       We might have more roles soon, and we’ll contact you if we think there
       might be a good match
