@@ -105,6 +105,14 @@
                 "label": "Instagram",
                 "url": "/https://www.instagram.com/bhnvgoyal/",
                 "icon": "instagram"
+            },
+            {
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "legalLinks": [],
