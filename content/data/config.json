@@ -26,17 +26,6 @@
                 "altText": ""
             },
             {
-                "label": "Learn more",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": "",
-                "type": "Button"
-            },
-            {
                 "type": "Link",
                 "label": "Blog",
                 "altText": "Blog",
