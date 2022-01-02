@@ -310,11 +310,9 @@ sections:
           You can go to the link on the website and book a convenient slot for
           the service you are interested in.
       - question: How many sessions do I need?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          We recommend 3 sessions to cover all aspects of the PM interviews.
+          During these sessions active feedback will be given
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
