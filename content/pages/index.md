@@ -306,11 +306,9 @@ sections:
     title: Need Answers?
     items:
       - question: How do I go about it?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+        answer: >
+          You can go to the link on the website and book a convenient slot for
+          the service you are interested in.
       - question: How it this different from what we have today?
         answer: >-
           At the office, working together is often a distruction, on remote, it
