@@ -309,7 +309,7 @@ sections:
         answer: >
           You can go to the link on the website and book a convenient slot for
           the service you are interested in.
-      - question: How it this different from what we have today?
+      - question: How many sessions do I need?
         answer: >-
           At the office, working together is often a distruction, on remote, it
           could be motivation, At the office, working together is often a
