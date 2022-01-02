@@ -42,18 +42,19 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: A little about me
-    text: >+
-      Building products for a seamless and delightful customer experience.
+    text: >
+      I'm currently working in the Fin-tech industry building a product for a
+      delightful customer experience.
 
 
-      Completed my MBA from ISB with a specialization in Marketing and Internet
-      Technology management.
+      I work with candidates to prepare them for Product Management interviews.
+      Having gone through the journey myself, I understand the challenges
+      involved ..
 
 
       Seasoned software development professional with experience working in
       E-Commerce and Banking (Trading) domains. Worked on building highly
       scalable and resilient systems.
-
     actions:
       - type: Button
         label: Know more
