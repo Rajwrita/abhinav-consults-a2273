@@ -115,6 +115,7 @@ sections:
           name: address
           isRequired: 'false'
           width: full
+          placeholder: Drop in your query
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
