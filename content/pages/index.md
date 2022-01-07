@@ -369,7 +369,7 @@ sections:
   - elementId: ''
     variant: variant-b
     colors: colors-f
-    title: About us
+    title: Testimonials
     subtitle: Featured people section example
     actions: []
     people:
