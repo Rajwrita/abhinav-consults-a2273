@@ -63,7 +63,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: wide
         margin:
           - mt-24
           - mb-0
