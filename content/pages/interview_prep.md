@@ -113,7 +113,6 @@ sections:
           width: 1/2
         - type: TextFormControl
           name: address
-          placeholder: Your home address
           isRequired: 'false'
           width: full
         - type: CheckboxFormControl
